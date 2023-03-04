@@ -326,7 +326,7 @@ footer {
 
 @media (max-width: 768px) {
     /* Changes to apply when screen is smaller than 768px */
-    
+
     header {
         height: 8vh;
     }
@@ -347,7 +347,7 @@ footer {
     .about-us {
         padding-left: 40px;
         padding-right: 10px;
-        
+
     }
 
     .menu {
@@ -382,6 +382,6 @@ footer {
     .about-img {
         width: 300px;
     }
-    
-    
+
+
 }
